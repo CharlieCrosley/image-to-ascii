@@ -1,9 +1,9 @@
-# Image-To-Ascii
+# Image-To-ASCII
 
-CLI Toll for Image to Ascii conversion.
+CLI Tool for Image to ASCII art conversion.
 Supports a variety of image types.
 
-To convert an image to ascii art:
+To convert an image to ASCII art:
 ```
 $  ascii_art_converter.exe --path "path/to/image"
 ```
